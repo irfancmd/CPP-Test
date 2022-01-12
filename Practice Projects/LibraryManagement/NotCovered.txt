@@ -1,0 +1,9 @@
+********** Not so deeply covered **********
+1. Operator overloading
+
+********** Not covered at all *************
+1. 'final' keyword for both classes and methods. (Same as Java)
+2. Complete 'abstract' classes and pure virtual functions
+3. Interfaces
+4. Weak pointers
+5. Custom deleters
